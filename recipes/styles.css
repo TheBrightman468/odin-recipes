@@ -1,14 +1,14 @@
 .all {
     color: #000000;
     font-family: Verdana, Arial, sans-serif;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 500;
 }
 
 #heading {
     color: #ffffff;
     background-color: #000000;
-    font-size: 40px;
+    font-size: 48px;
     font-weight: 800;
     text-align: center;
 }
