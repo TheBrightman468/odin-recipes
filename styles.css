@@ -14,11 +14,11 @@
 }   
 
 #lasagna {
-    background-color: rgb(0, 140, 69);
+    background-color: rgba(0, 140, 69, 0.75);
 }
 
 #spaghetti {
-    background-color: rgb(205, 33, 42);
+    background-color: rgba(205, 33, 42, 0.75);
 }
 
 #body-text {
