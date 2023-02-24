@@ -30,4 +30,14 @@ p,
     background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
     font-size: 28px;
+    font-weight: 700;
 }
+
+.subheading.normal {
+    text-align: center;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 600;
+}
+
