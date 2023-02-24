@@ -5,3 +5,11 @@
     font-weight: 500;
 }
 
+#heading {
+    color: #ffffff;
+    background-color: #000000;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+}
+
