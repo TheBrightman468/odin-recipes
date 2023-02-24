@@ -41,3 +41,9 @@ p,
     font-weight: 600;
 }
 
+.list-group .list-item {
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
