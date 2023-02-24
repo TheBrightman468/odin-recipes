@@ -21,3 +21,12 @@ img {
     margin-right: auto;
 }
 
+p,
+.subheading.large {
+    text-align: center;
+}
+
+.subheading.large {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
